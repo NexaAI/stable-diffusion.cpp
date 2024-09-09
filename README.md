@@ -57,14 +57,3 @@ To pull the latest changes from the upstream repository (`leejet/stable-diffusio
    ```bash
    git push origin master
    ```
-
----
-
-### Notes:
-
-- Make sure you replace `"Describe your changes here"` with an appropriate description of what changes you made.
-- If you encounter merge conflicts, resolve them before committing and pushing the merge.
-
-This should now be a clean and functional set of instructions for contributing to and maintaining your fork of the repository.
-
-Let me know if anything else needs adjustments!

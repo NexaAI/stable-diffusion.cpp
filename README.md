@@ -2,6 +2,13 @@
 
 This repository forks from [stable-diffusion-cpp](https://github.com/leejet/stable-diffusion.cpp). Follow the instructions below to check in code changes and sync with the upstream repository.
 
+To build this project:
+```
+make clean
+cmake -B build
+cmake --build build --config Release -j 24
+```
+
 ## Checking in Your Code Changes
 
 To commit your local code changes and push them to your repository, use the following steps:
